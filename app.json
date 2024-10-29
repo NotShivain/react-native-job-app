@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "first-react-native-app",
+    "slug": "first-react-native-app",
+    "extra": {
+      "eas": {
+        "projectId": "bf2f8b61-9bf9-4edc-ae00-d82c55e64541"
+      }
+    },
+    "android": {
+      "package": "com.notshivain.firstreactnativeapp"
+    },
+    "ios": {
+      "bundleIdentifier": "y"
+    }
+  }
+}
